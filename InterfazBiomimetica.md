@@ -2,14 +2,15 @@
 Nosotros vamos a elegir el diseño a( Biomimético ).
 
 Enfoque elegido
-nosotros pensamos en un hormiguero atrae visualmente al cliente ya que  utilizaremos un esquema ordenado y colores que atraigan al cliente. 
+Emos pensado una temática de historia para un museo
 
 Leyes de Gestalt
 
 Ley de proximidad: Agrupa los elementos que están cerca unos de otros. 
 
+Ley de buena forma:  El cerebro prefiere organizar los elementos visuales de la forma más simple, estable, ordenada y fácil de entender posible.
 
-Ley de buena forma (Prägnanz): Tiende a buscar la forma más simple, estable, ordenada y fácil de entender. 
+Ley de figura y fondo: La mente separa cualquier estímulo visual entre un objeto principal (la figura) y su entorno (el fondo). No se puede ver el mismo elemento como figura y fondo al mismo tiempo.
 
 Presentación: 
 Vamos a presentarlo como grid de tarjetas que se vaya ramificando para cada opción

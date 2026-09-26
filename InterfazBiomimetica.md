@@ -1,5 +1,4 @@
 
-
 Nosotros vamos a elegir el diseño a( Biomimético ).
 
 Enfoque elegido

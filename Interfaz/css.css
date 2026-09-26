@@ -32,7 +32,6 @@ nav ul li a {
         }
 
 
-
 nav ul li  :hover{
             color: #76361e;
             text-decoration:underline;
@@ -40,6 +39,9 @@ nav ul li  :hover{
             text-decoration-style:wavy
         }
 
-
-
-    
+.contenedor-logo{
+     display: flex ;
+    flex-direction: row ;
+    align-items: center ;
+    gap: 12px ;
+}

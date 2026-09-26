@@ -1,2 +1,2 @@
 # Proyecto-de-dise-o-y-prototipado
-Opción A con la estructura de un hormiguero
+En este proyecto diseñaremos una interfaz gráfica que tenga qe¡ue ver con algún momento histórico, más concretamente relacionado con la revolución francesa

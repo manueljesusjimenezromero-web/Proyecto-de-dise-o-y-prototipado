@@ -1,5 +1,5 @@
 
-Nosotros vamos a elegir el diseño a( Biomimético ).
+Nosotros vamos a elegir el diseño A ( Biomimético ).
 
 Enfoque elegido
 Emos pensado una temática de historia para un museo

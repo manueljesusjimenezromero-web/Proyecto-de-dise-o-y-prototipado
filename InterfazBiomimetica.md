@@ -13,7 +13,7 @@ Ley de buena forma:  El cerebro prefiere organizar los elementos visuales de la 
 Ley de figura y fondo: La mente separa cualquier estímulo visual entre un objeto principal (la figura) y su entorno (el fondo). No se puede ver el mismo elemento como figura y fondo al mismo tiempo.
 
 Presentación: 
-Vamos a presentarlo como grid de tarjetas que se vaya ramificando para cada opción
+Vamos a presentarlo como grid de tarjetas.
 
 Estilo y sistema de diseño
 

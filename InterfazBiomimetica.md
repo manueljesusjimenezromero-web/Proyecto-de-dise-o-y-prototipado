@@ -18,7 +18,4 @@ Vamos a presentarlo como grid de tarjetas.
 Estilo y sistema de diseño
 
 1.Paleta colores
-Marrón Arcilla: Úsalo para los textos principales y fondos de secciones clave.
-Crema: El color de fondo de la web
-Naranja Terracota: Los colores de las "cámaras" o los botones donde la gente tiene que hacer clic.
-Verde Hoja: para iluminar la línea o el "túnel" por el que el usuario está navegando en ese momento.
+

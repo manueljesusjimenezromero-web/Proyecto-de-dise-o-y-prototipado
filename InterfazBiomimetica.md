@@ -10,7 +10,6 @@ Leyes de Gestalt
 
 Ley de proximidad: Agrupa los elementos que están cerca unos de otros. 
 
-Ley de continuidad: Sigue el camino visual más suave y coherente sin importar los cambios de color. 
 
 Ley de buena forma (Prägnanz): Tiende a buscar la forma más simple, estable, ordenada y fácil de entender. 
 

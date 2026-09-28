@@ -1,6 +1,3 @@
-/* ========================================
-   VARIABLES
-======================================== */
 
 
 
@@ -30,7 +27,9 @@ body {
 
     background: #efe2c4;
 }
-
+.hero .documento h2{
+    font-size: 1rem;
+}
 
 /* 
    HEADER
@@ -52,6 +51,8 @@ body {
 
     border-bottom: 3px solid #6b4a2b;
 }
+
+
 
 
 /* 

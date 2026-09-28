@@ -10,7 +10,7 @@ Por otro lado, ya que en historia se trabaja con los documentos originales, quer
 Transmitiremos el concepto con los siguientes colores:
 
 Pergamino: #EFE2C4
-Tinta Sepia: #2B1DI2
+Tinta: #2B1DI2
 Rojo lacre: #8E1B1B
 Azul tinta: #243A5A
 

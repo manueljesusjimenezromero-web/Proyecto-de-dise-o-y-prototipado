@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 327da7aa7c82d0b8c6a2837225b8c83aa7e8af3a
 
 
 /*
@@ -26,7 +30,9 @@ body {
 
     background: #efe2c4;
 }
-
+.hero .documento h2{
+    font-size: 1rem;
+}
 
 /* 
    HEADER
@@ -48,6 +54,8 @@ body {
 
     border-bottom: 3px solid #6b4a2b;
 }
+
+
 
 
 /* 
